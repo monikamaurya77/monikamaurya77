@@ -1,4 +1,3 @@
-
 <img align="left" alt="coding"  width="100%" height="350" src="https://github-profile-trophy.vercel.app/?username=monikamaurya77 " >
 <h1 align="center">Hi 👋, I'm Monika Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
