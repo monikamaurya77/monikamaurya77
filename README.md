@@ -1,6 +1,6 @@
 <img align="left" alt="coding" width="100%" height="350"  src="https://github.com/monikamaurya77/monikamaurya77/blob/main/giphy.gif" >
 <h1 align="center">Hi 👋, I'm Monika Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India,And I have done my graduation in  Bachelors of Technology in Computer Engineering💻. Currently I am upskilling myself by exploring some new technologies. Also, I am working on React and Javascript now-a-days and improving my front-end development skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikamaurya77&label=Profile%20views&color=0e75b6&style=flat" alt="monikamaurya77" /> </p>
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/19PAT6Mczshk3mvRQiA0U90pVXj5_WJ8WQoFzJbV53TU/edit](https://docs.google.com/document/d/19PAT6Mczshk3mvRQiA0U90pVXj5_WJ8WQoFzJbV53TU/edit)
 
-- ⚡ Fun fact **A multi-tasker who loves to explore new thingsand like reading story books**
+- ⚡ Fun fact **A multi-tasker who loves to explore new thingsand like reading story books💜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
