@@ -25,7 +25,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/monika1859187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monika1859187" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/monika-maurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monika-maurya/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/21912588/monika-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/21912588/monika-maurya" height="30" width="40" /></a>
+<a href="https://codesandbox.com/monikamaurya77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="monikamaurya77" height="30" width="40" /></a>
+<a href="https://instagram.com/_monika04_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_monika04_._" height="30" width="40" /></a>
+<a href="https://dribbble.com/monika-123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="monika-123" height="30" width="40" /></a>
+<a href="https://medium.com/@monikamaurya120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@monikamaurya120" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/monikamaurya120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monikamaurya120" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/monikamaurya120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monikamaurya120" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/monikamaurya120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="monikamaurya120" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/monikamaurya120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monikamaurya120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
