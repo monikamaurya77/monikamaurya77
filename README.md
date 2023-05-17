@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monikamaurya77" alt="monika-maurya" /></a> </p>
 
 
-<img align="left" alt="coding" width="300" src="https://media.tenor.com/x386YYsw2FIAAAAC/daily-good.gif" >
+<p align="left"> <img align="left" alt="coding" width="300" src="https://media.tenor.com/x386YYsw2FIAAAAC/daily-good.gif" >
 
 
 - 🔭 I’m currently working on [Crypto View](https://monikacryptoview1.netlify.app/)
