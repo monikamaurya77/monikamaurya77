@@ -1,3 +1,4 @@
+<img align="left" alt="coding" width="100%" height="350" src="https://github.com/monikamaurya77/monikamaurya77/blob/main/giphy.gif" >
 <h1 align="center">Hi 👋, I'm Monika Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
