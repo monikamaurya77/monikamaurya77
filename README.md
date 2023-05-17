@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **monikamaurya120@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19PAT6Mczshk3mvRQiA0U90pVXj5_WJ8WQoFzJbV53TU/edit](https://docs.google.com/document/d/19PAT6Mczshk3mvRQiA0U90pVXj5_WJ8WQoFzJbV53TU/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/19PAT6Mczshk3mvRQiA0U90pVXj5_WJ8WQoFzJbV53TU/edit]
 
 - ⚡ Fun fact **A multi-tasker who loves to explore new thingsand like reading story books💜**
 
