@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monikamaurya77" alt="monikamaurya77" /></a> </p>
 
-<img align="left" alt="coding" width="300" src="https://github.com/monikamaurya77/monikamaurya77/blob/main/git-women-with-laptop.gif" >
+<img align="left" alt="coding" width="300" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" >
 
 - 🔭 I’m currently working on [Crypto View](https://monikacryptoview1.netlify.app/)
 
