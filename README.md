@@ -1,11 +1,11 @@
 
-<img align="left" alt="coding"  width="100%" height="350" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" >
+<img align="left" alt="coding"  width="100%" height="350" src="https://github-profile-trophy.vercel.app/?username=monikamaurya77 " >
 <h1 align="center">Hi 👋, I'm Monika Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikamaurya77&label=Profile%20views&color=0e75b6&style=flat" alt="monikamaurya77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monikamaurya77" alt="monikamaurya77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" alt="monikamaurya77" /></a> </p>
 
 <img align="left" alt="coding" width="300"  src="https://github.com/monikamaurya77/monikamaurya77/blob/main/giphy.gif" >
 
