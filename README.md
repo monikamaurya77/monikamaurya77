@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Monika Maurya</h1>
 <h3 align="center">A passionate frontend developer from India,And I have done my graduation in  Bachelors of Technology in Computer Engineering💻. Currently I am upskilling myself by exploring some new technologies. Also, I am working on React and Javascript now-a-days and improving my front-end development skills.</h3>
 
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "It's never late to get started 🎯❤️!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikamaurya77&label=Profile%20views&color=0e75b6&style=flat" alt="monikamaurya77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monikamaurya77" alt="monika-maurya" /></a> </p>
