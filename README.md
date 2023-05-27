@@ -1,4 +1,4 @@
-<img align="left" alt="coding" width="80%" height="350"  src="./profile-removebg-preview.png" >
+<img align="left" alt="coding" width="60%" height="260"  src="./profile-removebg-preview.png" >
 <h1 align="center">Hi 👋, I'm Monika Maurya</h1>
 <h3 align="center">A passionate frontend developer from India,And I have done my graduation in  Bachelors of Technology in Computer Engineering💻. Currently I am upskilling myself by exploring some new technologies. Also, I am working on React and Javascript now-a-days and improving my front-end development skills.</h3>
 
