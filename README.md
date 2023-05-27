@@ -10,13 +10,13 @@
 <img align="left" alt="coding" width="300" src="https://media.tenor.com/x386YYsw2FIAAAAC/daily-good.gif" >
 
 
-- 🔭 I’m currently working on [Crypto View](https://monikacryptoview1.netlify.app/)
+- 🔭 I’m currently working on [Movie App](https://monika-movie-app-react.netlify.app/)
 
-- 🌱 I’m currently learning **Redux, Nodejs**
+- 🌱 I’m currently learning **Redux,NextJS, NodeJs**
 
-- 👯 I’m looking to collaborate on [Weather Application](https://github.com/monikamaurya77/React-Weather-App)
+- 👯 I’m looking to collaborate on [Social Media App](https://monika-social-app-react.netlify.app/) 
 
-- 🤝 I’m looking for help with [Domain Search Application](https://monika-domain-search-application.netlify.app/)
+- 🤝 I’m looking for help with [Domain Search Application](https://monika-domain-search-application.netlify.app/) 
 
 - 👨‍💻 All of my projects are available at [https://monikamportfolio.netlify.app/](https://monikamportfolio.netlify.app/)
 
